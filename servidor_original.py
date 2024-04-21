@@ -1,5 +1,3 @@
-# Aluno: Elohim Felipe Santiago da Silva
-
 import socket
 import threading
 
