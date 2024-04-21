@@ -1,5 +1,3 @@
-# Aluno: Elohim Felipe Santiago da Silva
-
 import socket
 
 # Definir qual é o host e qual é a porta
