@@ -16,7 +16,7 @@ conex = conexaobanco()
 
 t_sql = """INSERT INTO tb_cadastrados
             (login_, senha, login_2, senha_2)
-            VALUES('felipesilva@gmail.com','silva12', 'silvasantiago@gmail.com', 'flamengo_horrivel')"""
+            VALUES('teste@gmail.com','teste1', 'outro@gmail.com', 'teste2')"""
 def inserindo(conexao, sql):
     try: 
         i = conexao.cursor()
